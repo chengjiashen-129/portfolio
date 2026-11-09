@@ -1,0 +1,262 @@
+{
+  "profile": {
+    "name": "程佳申",
+    "eyebrow": "Portfolio 2026 · 3ds Max / Photoshop / After Effects",
+    "role": "3D 美术实习生 / 3D 建模助理 · 寒假实习",
+    "intro": "作品按类别归档：3D 建模为主，平面与图像、动效、界面设计为辅。每一类都可以继续追加，新的作品会按顺序排在所属类别里。",
+    "meta": [
+      "武汉",
+      "13437164116",
+      "湖北生物科技职业学院 · 动漫制作技术",
+      "3ds Max ｜ Photoshop ｜ Illustrator ｜ After Effects ｜ CorelDRAW"
+    ],
+    "footer": "电话 13437164116 ｜ 工作地点 武汉 ｜ 寒假可全职线下坐班"
+  },
+  "categories": [
+    {
+      "key": "3d",
+      "name": "3D 建模",
+      "sub": "3ds Max 素模 · 形体与比例",
+      "summary": "建模阶段的素模作品：武器、硬表面道具、场景与产品包装。现阶段完成形体与比例搭建，UV 拆分、贴图与渲染是下一步计划。",
+      "theme": "dark",
+      "pdf_layout": "row3"
+    },
+    {
+      "key": "vis",
+      "name": "平面 · VIS",
+      "sub": "品牌视觉识别系统",
+      "summary": "竹语轩 VIS 手册节选：标志由「竹 / 窗格 / 文字」三元素推导，配套标准网格制图、标准色与应用辅助图形。",
+      "theme": "light",
+      "pdf_layout": "quad"
+    },
+    {
+      "key": "ps",
+      "name": "图像处理 · PS",
+      "sub": "修图、合成、海报",
+      "summary": "Photoshop 的合成与版式练习：节气海报、品牌官网长页、电商 banner 与主图。",
+      "theme": "dark",
+      "pdf_layout": "row3"
+    },
+    {
+      "key": "ae",
+      "name": "动效 · AE",
+      "sub": "动态图形、短片",
+      "summary": "After Effects 的动态图形与短片练习，网页版可直接播放；PDF 版取关键帧并标注时长。",
+      "theme": "dark",
+      "pdf_layout": "wide2"
+    },
+    {
+      "key": "ui",
+      "name": "UI 设计",
+      "sub": "界面、图标、启动页",
+      "summary": "竹语轩 App 的界面与图标练习：启动页、登录页，以及线性与面型两套图标体系。",
+      "theme": "dark",
+      "pdf_layout": "row3"
+    }
+  ],
+  "works": [
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/01_sword.png",
+      "title": "镂空环柄武器",
+      "meta": "风格化武器 · 素模 ｜ 3ds Max ｜ 正交前视图",
+      "desc": "左右对称的单件武器，中段为镂空圆环握柄，剑身以分段弧面与块面切割建立体积；正视图下对称与厚度关系清楚。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/02_greatsword.png",
+      "title": "双手大剑",
+      "meta": "风格化武器 · 素模 ｜ 3ds Max ｜ 透视视图",
+      "desc": "剑身、卷曲护手、剑柄与尾部球饰四段组合，护手用曲面块面叠出造型；透视视图可见三角面布线，便于检查转折密度。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/03_pistol.png",
+      "title": "风格化手枪",
+      "meta": "硬表面道具 · 素模 ｜ 3ds Max ｜ 正交侧视图",
+      "desc": "枪身、枪管、握把与尾部挂链分件建模，侧视图检查整体比例与部件穿插关系，接缝按实际结构分块。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/04_bedroom.png",
+      "title": "室内卧房小场景",
+      "meta": "场景搭建 · 素模 ｜ 3ds Max ｜ 透视视图",
+      "desc": "床架、床垫、床头柜、台灯、墙面置物与窗户组成完整一间，以基本几何体起形后转多边形细化，床垫与床板用条纹结构表现层次。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/05_desert-town.png",
+      "title": "沙地小镇",
+      "meta": "场景搭建 · 素模 ｜ 3ds Max ｜ 透视视图",
+      "desc": "沙地地台、多层建筑群、楼梯与门洞细节、棕榈植物，以及右侧一处大体块建筑；按地台—建筑—配景的顺序逐层搭建。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "3d",
+      "kind": "image",
+      "file": "images/3d/06_packaging.png",
+      "title": "包装盒组合",
+      "meta": "产品包装 · 素模 ｜ 3ds Max ｜ 透视视图",
+      "desc": "纸盒、卷轴盒、盒盖与两只罐体组合，箱体以平面切割加圆角过渡，罐体用圆柱起形，统一摆在一次排布中检查尺寸关系。",
+      "note": "制作说明：待补充（面数 / UV / 耗时 / 卡点）"
+    },
+    {
+      "cat": "vis",
+      "kind": "image",
+      "file": "images/vis/07_vis-logo.jpg",
+      "title": "标志释义",
+      "meta": "品牌视觉 ｜ 手册内页 A-001 ｜ 课程项目",
+      "desc": "竹叶与竹节取自然形态，叠入中式圆形花窗窗棂，再配定制字体，合成一个竹影窗格的圆形标志。"
+    },
+    {
+      "cat": "vis",
+      "kind": "image",
+      "file": "images/vis/08_vis-grid.jpg",
+      "title": "标准网格制图",
+      "meta": "品牌视觉 ｜ 手册内页 A-005 ｜ 课程项目",
+      "desc": "以基准单位 C 界定标志各构成要素的相对尺度，用于指示牌、招牌等大型物料的精准复现。"
+    },
+    {
+      "cat": "vis",
+      "kind": "image",
+      "file": "images/vis/09_vis-craft.jpg",
+      "title": "辅助图形 · 行业制作流程",
+      "meta": "品牌视觉 ｜ 手册内页 A-007 ｜ 课程项目",
+      "desc": "把竹编五道工序（选竹截段、劈竹抽蔑、晾晒防虫、编制造型、收边修整）画成统一笔触的线稿插画。"
+    },
+    {
+      "cat": "vis",
+      "kind": "image",
+      "file": "images/vis/10_vis-color.jpg",
+      "title": "标准色与色阶",
+      "meta": "品牌视觉 ｜ 手册内页 A-004 ｜ 课程项目",
+      "desc": "品牌标准色定深墨青 #15213D（C97 M93 Y59 K41），并规定色阶与印刷、PANTONE 对照的使用方式。"
+    },
+    {
+      "cat": "ps",
+      "kind": "image",
+      "file": "images/ps/01_gradual-poster.jpg",
+      "title": "弥散渐变海报 · 雨水",
+      "meta": "平面 · 节气海报 ｜ Photoshop ｜ 1125×2436",
+      "desc": "二十四节气「雨水」海报，整幅用绿→青蓝→暖黄的弥散渐变铺底，居中竖排“雨水”二字与拼音，配两句节气文案，右下角标注节气含义。"
+    },
+    {
+      "cat": "ps",
+      "kind": "image",
+      "file": "images/ps/02_tea-site.jpg",
+      "title": "茶品牌官网首页",
+      "meta": "平面 · 网页设计 ｜ Photoshop ｜ 1920×3478（长页上半部预览）",
+      "desc": "「品茗茶业」官网首页长页，首屏云山背景与西湖龙井礼盒、红色促销标签，中段是八大茶产地的圆形图卡，下接茶园视频区与页脚导航。"
+    },
+    {
+      "cat": "ps",
+      "kind": "image",
+      "file": "images/ps/03_chando-banner.jpg",
+      "title": "美妆 banner",
+      "meta": "平面 · 电商 banner ｜ Photoshop ｜ 1920×750",
+      "desc": "自然堂美妆 banner（第三版修改稿），紫调渐变与同心圆波纹做底，右侧四支产品竖向排布，左侧主副标题加「立即购买」按钮。"
+    },
+    {
+      "cat": "ps",
+      "kind": "image",
+      "file": "images/ps/04_laptop-banner.jpg",
+      "title": "笔记本产品 banner",
+      "meta": "平面 · 产品 banner ｜ Photoshop ｜ 1920×800",
+      "desc": "笔记本产品 banner，蓝调雪山背景与圆形光晕托住机身，左侧型号「15-AE15TX」、三条卖点与「立即抢购」按钮。"
+    },
+    {
+      "cat": "ps",
+      "kind": "image",
+      "file": "images/ps/05_main-image.jpg",
+      "title": "电商主图（模板临摹）",
+      "meta": "平面 · 电商主图 ｜ Photoshop ｜ 800×800",
+      "desc": "电商主图临摹练习，蓝白撞色版式，超大标题「日常喂养 全价猫粮」、优惠信息条、「¥89.0」到手价与促销角标，按平台主图规范排版。"
+    },
+    {
+      "cat": "ui",
+      "kind": "image",
+      "file": "images/ui/01_app-splash.jpg",
+      "title": "App 启动页",
+      "meta": "界面 · 竹语轩 App ｜ 1125×2436",
+      "desc": "米色纸纹背景叠竹叶暗纹与窗格细线，中心放圆形竹编标志、定制字标「竹语轩」与英文 Bamboo Whisper，底部一句 slogan。"
+    },
+    {
+      "cat": "ui",
+      "kind": "image",
+      "file": "images/ui/02_app-login.jpg",
+      "title": "App 登录页",
+      "meta": "界面 · 竹语轩 App ｜ 1125×2436",
+      "desc": "欢迎页文案介绍品牌，主次两个按钮（深墨青实心「登录」、描边「注册」），底部三种第三方登录方式图标。"
+    },
+    {
+      "cat": "ui",
+      "kind": "image",
+      "file": "images/ui/03_linear-icons.jpg",
+      "title": "线性图标与配色改编",
+      "meta": "界面 · 图标 ｜ Illustrator ｜ 1416×648",
+      "desc": "两组 8 个功能图标，上方为紫色线条版与 App 底部导航图标（首页/聊天/文档/我的/发现/钱包/文件夹/工作），下方为同款黑色线稿，展示线宽与圆角统一。"
+    },
+    {
+      "cat": "ui",
+      "kind": "image",
+      "file": "images/ui/04_flat-icons.jpg",
+      "title": "面型图标体系",
+      "meta": "界面 · 图标 ｜ 582×632",
+      "desc": "8组面型图标（录像/联系人/添加/天气/文件/喜欢/新增/休息），浅紫与深紫两种配色并置，验证小尺寸下的识别度。"
+    },
+    {
+      "cat": "ae",
+      "kind": "video",
+      "file": "images/ae/ae-01_car.mp4",
+      "poster": "images/ae/ae-01_car.jpg",
+      "title": "汽车动画",
+      "meta": "动效 · 矢量插画动画 ｜ After Effects ｜ 1920×1080 ｜ 7.2s",
+      "desc": "城市地标剪影排成远景，小车沿地面横移并做轻微起伏，多国建筑与云朵分层错速移动，形成视差感。"
+    },
+    {
+      "cat": "ae",
+      "kind": "video",
+      "file": "images/ae/ae-02_excavator.mp4",
+      "poster": "images/ae/ae-02_excavator.jpg",
+      "title": "挖掘机动画",
+      "meta": "动效 · 矢量插画动画 ｜ After Effects ｜ 1920×1080 ｜ 5.0s",
+      "desc": "橙色挖掘机的机械臂与铲斗做挖掘动作，履带、液压杆与驾驶室分层绘制，背景为城市建筑与树丛。"
+    },
+    {
+      "cat": "ae",
+      "kind": "video",
+      "file": "images/ae/ae-03-ui.mp4",
+      "poster": "images/ae/ae-03-ui.jpg",
+      "title": "界面动画",
+      "meta": "动效 · 界面动效 ｜ After Effects ｜ 1000×688 ｜ 3.0s",
+      "desc": "视频播放器、天气卡片与投票卡片三段界面元素叠放，做入场、位移与切换动效，卡片按层级分组位移动画。"
+    },
+    {
+      "cat": "ae",
+      "kind": "video",
+      "file": "images/ae/ae-04-phone.mp4",
+      "poster": "images/ae/ae-04-phone.jpg",
+      "title": "手机产品广告",
+      "meta": "动效 · 产品短片 ｜ After Effects ｜ 1920×1080 ｜ 2.4s",
+      "desc": "白色手机立在木地板上、红色墙面为背景，投影与高光随镜头动画变化，突出机身轮廓与品牌字样。"
+    },
+    {
+      "cat": "ae",
+      "kind": "video",
+      "file": "images/ae/ae-05-cards.mp4",
+      "poster": "images/ae/ae-05-cards.jpg",
+      "title": "扑克牌动画",
+      "meta": "动效 · 二维动画 ｜ After Effects ｜ 1920×1080 ｜ 10.0s",
+      "desc": "复古纸面上黑桃牌依次散开、翻面与旋转，边缘带手绘抖动质感，背景压一层航海罗盘纹样。"
+    }
+  ]
+}
