@@ -73,9 +73,18 @@ python 作品集素材\build_pdf.py      # 重新生成 PDF
 
 ## 上传成链接（GitHub Pages）
 
-1. 解压 zip，把 `portfolio.html` 改名为 `index.html`，`images` 文件夹保持同层。
-2. 新建仓库 `portfolio`，上传这两项；Settings → Pages → Source 选 `main` / root。
-3. 一两分钟后得到 `https://用户名.github.io/portfolio/`。
-4. 把简历里「作品集」后面的占位换成这个链接。
+现在已经发布好了：**https://chengjiashen-129.github.io/portfolio/**
+
+更新时只需要动这一处：
+
+1. 改完 `works.json`，跑 `build_site.py` 重新生成 `portfolio.html`。
+2. 把 `portfolio.html` 复制一份改名 `index.html`（GitHub Pages 只认 `index.html` 当首页，
+   少了它就会把你的 README 当首页显示，这点很容易踩坑）。
+3. 去仓库页面上传：根目录传 `index.html`（和 `works.json`，如果改过），
+   新增的图片按类别传到 `images/3d` / `vis` / `ps` / `ae` / `ui` 对应目录。
+   上传页地址形如 `https://github.com/chengjiashen-129/portfolio/upload/main/images/ui`，
+   选好文件后点页面底部的 **Commit changes** 才算真正提交。
+4. 等 1–2 分钟 Pages 自动重建，打开链接确认新作品已出现。
+5. 记得把 PDF 也重新生成一份，投递时一起给。
 
 > 注意：网页版是通过 `document.querySelector` 做分类筛选的，纯本地双击也能用；上传后同样有效。
